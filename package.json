@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "sass": "sass --watch --style=compressed --no-source-map style.scss:style.css"
+    "sass": "sass --style=compressed --no-source-map --watch style.scss:style.css"
   },
   "dependencies": {
     "sass-embedded-linux-x64": "^1.71.1"
